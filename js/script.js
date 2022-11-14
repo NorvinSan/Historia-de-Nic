@@ -1380,7 +1380,7 @@
 						"width":    1
 					},
 					"move":        {
-						"enable":    false,
+						"enable":    true,
 						"speed":     6,
 						"direction": "none",
 						"random":    true,
@@ -1397,7 +1397,7 @@
 					"detect_on": "canvas",
 					"events":    {
 						"onhover": {
-							"enable": true,
+							"enable": false,
 							"mode":   "grab"
 						},
 						"onclick": {
